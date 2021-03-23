@@ -1,4 +1,6 @@
-# 💰 Cryptocurrency price ticker CLI.
+# 💰 Cryptocurrency price ticker CLI
+
+![Screen Shot 2021-03-23 at 22 26 51](https://user-images.githubusercontent.com/81108192/112227006-ded3cb00-8c26-11eb-893c-2ae712970453.png)
 
 Check cryptocurrencies' prices, changes on your console.
 Best CLI tool for those who are both **Crypto investors** and **Engineers**.
@@ -55,7 +57,7 @@ It's simple to run `coinmon` on your local computer.
 The following is step-by-step instruction.
 
 ```
-$ git clone https://github.com/bichenkk/coinmon.git
+$ git clone https://github.com/TUDTech/Coin_Monitor.git
 $ cd coinmon
 $ yarn
 $ npm install -g
@@ -82,7 +84,7 @@ $ docker run --rm -ti jaymoulin/coinmon --help
 #### Build image
 
 ```
-$ docker build -t coinmon .
+$ docker build -t coinmon
 ```
 
 #### Usage
