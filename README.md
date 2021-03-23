@@ -1,19 +1,9 @@
-
-<img src="https://raw.githubusercontent.com/bichenkk/coinmon/master/logo.png">
-
-[![Node version](https://img.shields.io/badge/node.js-%3E=_6.0-green.svg)](http://nodejs.org/download/)
-[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](http://makeapullrequest.com)
-
-> 💰 Cryptocurrency price ticker CLI.
+# 💰 Cryptocurrency price ticker CLI.
 
 Check cryptocurrencies' prices, changes on your console.
 Best CLI tool for those who are both **Crypto investors** and **Engineers**.
 
 All data comes from [coincap](https://coincap.io/) APIs.
-
-## Quick Update
-* As coinmarketcap API is only free with API keys, we moved to use coincap API and disabled some features.
 
 ## Install
 
@@ -29,8 +19,6 @@ To check the top 10 cryptocurrencies ranked by their market cap, simply enter
 ```
 $ coinmon
 ```
-
-## Options
 
 ### Find specific coin(s)
 
@@ -59,7 +47,7 @@ $ coinmon -h
 
 ## Screenshot
 
-<img src="https://raw.githubusercontent.com/bichenkk/coinmon/master/screenshot.png">
+![Screen Shot 2021-03-23 at 21 52 26](https://user-images.githubusercontent.com/81108192/112223594-112ef980-8c22-11eb-8714-00368d92d99f.png)
 
 ## Development
 
@@ -109,14 +97,15 @@ You can pass parameters just like `coinmon` binary
 $ docker run --rm -ti coinmon --help
 ```
 
-## Contributors
+## Contributing
 
-* @maticrivo 
-* @pgila 
-* @vladei 
-* @jaymoulin
-* @anilkilic
+Thanks all for your contributions...
+    
+![Screen Shot 2021-03-21 at 19 11 59](https://user-images.githubusercontent.com/81108192/111917690-519f4380-8a79-11eb-9d01-de457b1655f6.png)
+    
+ETH WALLET: 0xA1134858c168568CBE37649D16723eC8F782e0A2
 
-## License
+![Screen Shot 2021-03-21 at 21 56 54](https://user-images.githubusercontent.com/81108192/111922186-5b807100-8a90-11eb-8504-a3fc3ae35052.png)
 
-MIT
+BTC WALLET: 3N928MmFq51kbf6fE3fxJbtggBhcjMAhSQ
+
